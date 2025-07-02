@@ -6,6 +6,7 @@ namespace Assignment01
 {
     internal class Program
     {
+
         class Person
         {
             public string Name;
